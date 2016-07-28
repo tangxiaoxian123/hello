@@ -10,7 +10,7 @@ pageEncoding="UTF-8"%>
  </head>
  <body>
  <div>
- 共有ブックマーク集
+ 共有ブックマーク集la'la'l啦啦啦a
  <br><br>
  「新規登録」<br><br>
  <form method="post" action="update.jsp">
